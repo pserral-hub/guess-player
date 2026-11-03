@@ -1,0 +1,212 @@
+Erling Haaland;DC;26;Manchester City;Premier League;Noruega
+Kylian Mbappé;DC/EI;27;Real Madrid;Laliga;França
+Jude Bellingham;MC;23;Real Madrid;Laliga;Anglaterra
+Vinícius Jr.;EI;26;Real Madrid;Laliga;Brasil
+Harry Kane;DC;33;Bayern München;Bundesliga;Anglaterra
+Rodri;MCD;30;FC Barcelona;Laliga;Espanya
+Florian Wirtz;MCO;23;Liverpool;Premier League;Alemanya
+Pedri;MC;23;FC Barcelona;Laliga;Espanya
+Gavi;MC;22;FC Barcelona;Laliga;Espanya
+Jamal Musiala;MCO/EI;23;Bayern München;Bundesliga;Alemanya
+Bukayo Saka;ED;25;Arsenal;Premier League;Anglaterra
+Martin Ødegaard;MCO;27;Arsenal;Premier League;Noruega
+Kevin De Bruyne;MC;35;Napoli;Serie A;Bèlgica
+Lautaro Martínez;DC;29;Inter;Serie A;Argentina
+Federico Valverde;MC;28;Real Madrid;Laliga;Uruguai
+Khvicha Kvaratskhelia;EI;25;PSG;Ligue 1;Geòrgia
+Bernardo Silva;MC;32;Real Madrid;Laliga;Portugal
+Declan Rice;MCD;27;Arsenal;Premier League;Anglaterra
+Nico Williams;EI;24;Athletic Club;Laliga;Espanya
+Lamine Yamal;ED;19;FC Barcelona;Laliga;Espanya
+Thibaut Courtois;POR;34;Real Madrid;Laliga;Bèlgica
+Jan Oblak;POR;33;Atlético Madrid;Laliga;Eslovènia
+Alisson Becker;POR;34;Liverpool;Premier League;Brasil
+Virgil van Dijk;DFC;35;Liverpool;Premier League;Països Baixos
+Rúben Dias;DFC;29;Manchester City;Premier League;Portugal
+William Saliba;DFC;25;Arsenal;Premier League;França
+Ferran Torres;DC/ED;26;PSG;Ligue 1;Espanya
+Fermín López;MCO;23;FC Barcelona;Laliga;Espanya
+Eric García;DFC/MC;25;FC Barcelona;Laliga;Espanya
+Alejandro Balde;LI;23;FC Barcelona;Laliga;Espanya
+Pau Cubarsí;DFC;19;FC Barcelona;Laliga;Espanya
+Antonio Rüdiger;DFC;33;Real Madrid;Laliga;Alemanya
+Éder Militão;DFC;28;Real Madrid;Laliga;Brasil
+Arda Güler;MCO;21;Real Madrid;Laliga;Turquia
+Rodrygo;ED/EI;25;Real Madrid;Laliga;Brasil
+Endrick;DC;20;Real Madrid;Laliga;Brasil
+Eduardo Camavinga;MC;23;Real Madrid;Laliga;França
+Pablo Barrios;MC;23;Atlético Madrid;Laliga;Espanya
+Koke;MC;34;Atlético Madrid;Laliga;Espanya
+Robin Le Normand;DFC;29;Atlético Madrid;Laliga;Espanya
+Alexander Sørloth;DC;30;Atlético Madrid;Laliga;Noruega
+Giuliano Simeone;ED;23;Atlético Madrid;Laliga;Argentina
+Mikel Oyarzabal;EI/DC;29;Real Sociedad;Laliga;Espanya
+Takefusa Kubo;ED;25;Real Sociedad;Laliga;Japó
+Álex Remiro;POR;31;Real Sociedad;Laliga;Espanya
+Fabián Ruiz;MC;30;PSG;Ligue 1;Espanya
+Désiré Doué;ED/MCO;21;PSG;Ligue 1;França
+João Neves;MC;22;PSG;Ligue 1;Portugal
+Achraf Hakimi;LD;27;PSG;Ligue 1;Marroc
+Gianluigi Donnarumma;POR;27;Manchester City;Premier League;Itàlia
+Denzel Dumfries;LD;30;Real Madrid;Laliga;Països Baixos
+Marcus Thuram;DC;29;Inter;Serie A;França
+Khéphren Thuram;MC;25;Juventus;Serie A;França
+Kenan Yıldız;EI/MCO;21;Juventus;Serie A;Turquia
+Michael Olise;ED;24;Bayern München;Bundesliga;França
+Ousmane Dembélé;EI/ED;29;PSG;Ligue 1;França
+Raphinha;ED;29;FC Barcelona;Laliga;Brasil
+Luis Díaz;EI;29;Bayern München;Bundesliga;Colòmbia
+Viktor Gyökeres;DC;28;Arsenal;Premier League;Suècia
+Cole Palmer;MCO/ED;24;Chelsea;Premier League;Anglaterra
+Phil Foden;MCO/ED;26;Manchester City;Premier League;Anglaterra
+Julián Álvarez;DC/EI;26;Atlético Madrid;Laliga;Argentina
+Enzo Fernández;MC;25;Manchester City;Premier League;Argentina
+Moisés Caicedo;MCD;24;Chelsea;Premier League;Equador
+Levi Colwill;DFC;23;Chelsea;Premier League;Anglaterra
+Trent Alexander-Arnold;LD;28;Real Madrid;Laliga;Anglaterra
+Alphonso Davies;LI;25;Bayern München;Bundesliga;Canadà
+Joshua Kimmich;MC/LD;31;Bayern München;Bundesliga;Alemanya
+Manuel Neuer;POR;40;Bayern München;Bundesliga;Alemanya
+Ronald Araújo;DFC;27;Liverpool;Premier League;Uruguai
+Rafael Leão;EI;27;AC Milan;Serie A;Portugal
+Theo Hernández;LI;29;AC Milan;Serie A;França
+Mike Maignan;POR;31;AC Milan;Serie A;França
+Rasmus Højlund;DC;23;Napoli;Serie A;Dinamarca
+Kobbie Mainoo;MC;21;Manchester United;Premier League;Anglaterra
+Alejandro Garnacho;EI;22;Chelsea;Premier League;Argentina
+Lisandro Martínez;DFC;28;Manchester United;Premier League;Argentina
+Mohamed Salah;ED;34;Liverpool;Premier League;Egipte
+Dominik Szoboszlai;MC;25;Liverpool;Premier League;Hongria
+Alexis Mac Allister;MC;27;Liverpool;Premier League;Argentina
+Andrew Robertson;LI;32;Liverpool;Premier League;Escòcia
+James Maddison;MCO;29;Tottenham;Premier League;Anglaterra
+Cristian Romero;DFC;28;Atlético Madrid;Laliga;Argentina
+Kai Havertz;DC/MC;27;Arsenal;Premier League;Alemanya
+Gabriel Magalhães;DFC;28;Arsenal;Premier League;Brasil
+Gabriel Jesus;DC;29;FC Barcelona;Laliga;Brasil
+Ben White;LD;29;Arsenal;Premier League;Anglaterra
+David Raya;POR;31;Arsenal;Premier League;Espanya
+Unai Simón;POR;29;Athletic Club;Laliga;Espanya
+Iñaki Williams;DC/ED;32;Athletic Club;Laliga;Ghana
+Dani Olmo;MCO;28;FC Barcelona;Laliga;Espanya
+Jules Koundé;DFC/LD;27;FC Barcelona;Laliga;França
+Aurélien Tchouaméni;MCD;26;Real Madrid;Laliga;França
+Brahim Díaz;MCO/EI;27;Real Madrid;Laliga;Marroc
+Dušan Vlahović;DC;26;Juventus;Serie A;Sèrbia
+Manuel Locatelli;MC;28;Juventus;Serie A;Itàlia
+Gleison Bremer;DFC;29;Juventus;Serie A;Brasil
+Hakan Çalhanoğlu;MC;32;Inter;Serie A;Turquia
+Nicolò Barella;MC;29;Inter;Serie A;Itàlia
+Alessandro Bastoni;DFC;27;Inter;Serie A;Itàlia
+Eberechi Eze;MCO/EI;28;Arsenal;Premier League;Anglaterra
+Martin Zubimendi;MCD;27;Arsenal;Premier League;Espanya
+Riccardo Calafiori;DFC/LI;24;Arsenal;Premier League;Itàlia
+Piero Hincapié;DFC/LI;24;Arsenal;Premier League;Equador
+Jurrien Timber;DFC/LD;25;Arsenal;Premier League;Països Baixos
+Rayan Cherki;MCO;23;Manchester City;Premier League;França
+Jeremy Doku;EI;24;Manchester City;Premier League;Bèlgica
+Joško Gvardiol;DFC/LI;24;Manchester City;Premier League;Croàcia
+Marc Guéhi;DFC;26;Manchester City;Premier League;Anglaterra
+Antoine Semenyo;ED;26;Manchester City;Premier League;Ghana
+Alexander Isak;DC;27;Liverpool;Premier League;Suècia
+Hugo Ekitike;DC;24;Liverpool;Premier League;França
+Jeremie Frimpong;LD/ED;25;Liverpool;Premier League;Països Baixos
+Milos Kerkez;LI;22;Liverpool;Premier League;Hongria
+Cody Gakpo;EI/DC;27;Liverpool;Premier League;Països Baixos
+Ryan Gravenberch;MC;24;Liverpool;Premier League;Països Baixos
+Bruno Fernandes;MCO;32;Manchester United;Premier League;Portugal
+Matthijs de Ligt;DFC;27;Manchester United;Premier League;Països Baixos
+Benjamin Šeško;DC;23;Manchester United;Premier League;Eslovènia
+Matheus Cunha;DC/MCO;27;Manchester United;Premier League;Brasil
+Amad Diallo;ED;24;Manchester United;Premier League;Costa d'Ivori
+Bryan Mbeumo;ED/DC;27;Manchester United;Premier League;Camerun
+Leny Yoro;DFC;20;Manchester United;Premier League;França
+João Pedro;DC/MCO;25;Chelsea;Premier League;Brasil
+Pedro Neto;ED/EI;26;Chelsea;Premier League;Portugal
+Reece James;LD;27;Chelsea;Premier League;Anglaterra
+Wesley Fofana;DFC;25;Chelsea;Premier League;França
+Jorrel Hato;DFC/LI;20;Chelsea;Premier League;Països Baixos
+Estevão;ED;19;Chelsea;Premier League;Brasil
+Morgan Rogers;MCO/EI;24;Aston Villa;Premier League;Anglaterra
+Emiliano Martínez;POR;34;Aston Villa;Premier League;Argentina
+Ollie Watkins;DC;30;Aston Villa;Premier League;Anglaterra
+Adam Wharton;MC;22;Crystal Palace;Premier League;Anglaterra
+Jean-Philippe Mateta;DC;29;Crystal Palace;Premier League;França
+Morgan Gibbs-White;MCO;26;Nottingham Forest;Premier League;Anglaterra
+Murillo;DFC;24;Nottingham Forest;Premier League;Brasil
+Xavi Simons;MCO/EI;23;Tottenham;Premier League;Països Baixos
+Dominic Solanke;DC;29;Tottenham;Premier League;Anglaterra
+Dejan Kulusevski;ED/MCO;26;Tottenham;Premier League;Suècia
+Lucas Bergvall;MC;20;Tottenham;Premier League;Suècia
+Joan García;POR;25;FC Barcelona;Laliga;Espanya
+Marc Bernal;MCD;19;FC Barcelona;Laliga;Espanya
+Roony Bardghji;ED;20;FC Barcelona;Laliga;Suècia
+Anthony Gordon;EI;25;FC Barcelona;Laliga;Anglaterra
+Karim Adeyemi;ED/DC;24;FC Barcelona;Laliga;Alemanya
+João Cancelo;LD/LI;32;FC Barcelona;Laliga;Portugal
+Álex Baena;MCO/EI;25;Atlético Madrid;Laliga;Espanya
+Conor Gallagher;MC;26;Atlético Madrid;Laliga;Anglaterra
+Kang-in Lee;MCO/ED;25;Atlético Madrid;Laliga;Corea del Sud
+Alejandro Grimaldo;LI;31;Atlético Madrid;Laliga;Espanya
+Morten Hjulmand;MCD;27;Atlético Madrid;Laliga;Dinamarca
+Jonathan David;DC;26;Atlético Madrid;Laliga;Canadà
+Antoine Griezmann;DC/MCO;35;Atlético Madrid;Laliga;França
+Antony;ED;26;Real Betis;Laliga;Brasil
+Isco;MCO;34;Real Betis;Laliga;Espanya
+Giovani Lo Celso;MC/MCO;30;Real Betis;Laliga;Argentina
+Abde Ezzalzouli;EI;24;Real Betis;Laliga;Marroc
+Gerard Moreno;DC;34;Villarreal;Laliga;Espanya
+Ayoze Pérez;DC/EI;33;Villarreal;Laliga;Espanya
+Nicolas Pépé;ED;31;Villarreal;Laliga;Costa d'Ivori
+Georges Mikautadze;DC;25;Villarreal;Laliga;Geòrgia
+Iago Aspas;DC/MCO;39;Celta de Vigo;Laliga;Espanya
+Borja Iglesias;DC;33;Celta de Vigo;Laliga;Espanya
+Hugo Álvarez;EI;23;Celta de Vigo;Laliga;Espanya
+Ander Barrenetxea;EI;24;Real Sociedad;Laliga;Espanya
+Sergi Darder;MC;32;RCD Espanyol;Laliga;Espanya
+Javi Puado;DC/EI;28;RCD Espanyol;Laliga;Espanya
+Kike García;DC;37;RCD Espanyol;Laliga;Espanya
+Dayot Upamecano;DFC;27;Bayern München;Bundesliga;França
+Jonathan Tah;DFC;30;Bayern München;Bundesliga;Alemanya
+Konrad Laimer;MC/LD;29;Bayern München;Bundesliga;Àustria
+Aleksandar Pavlović;MCD;22;Bayern München;Bundesliga;Alemanya
+Serge Gnabry;ED;31;Bayern München;Bundesliga;Alemanya
+Lennart Karl;ED/MCO;18;Bayern München;Bundesliga;Alemanya
+Gregor Kobel;POR;28;Borussia Dortmund;Bundesliga;Suïssa
+Nico Schlotterbeck;DFC;26;Borussia Dortmund;Bundesliga;Alemanya
+Waldemar Anton;DFC;30;Borussia Dortmund;Bundesliga;Alemanya
+Serhou Guirassy;DC;30;Borussia Dortmund;Bundesliga;Guinea
+Jobe Bellingham;MC;21;Borussia Dortmund;Bundesliga;Anglaterra
+Felix Nmecha;MC;26;Borussia Dortmund;Bundesliga;Alemanya
+Maximilian Beier;DC;24;Borussia Dortmund;Bundesliga;Alemanya
+Marcel Sabitzer;MC;32;Borussia Dortmund;Bundesliga;Àustria
+Carney Chukwuemeka;MC/MCO;23;Borussia Dortmund;Bundesliga;Àustria
+Nico Paz;MCO;22;Como;Serie A;Argentina
+Christian Pulisic;ED/MCO;28;AC Milan;Serie A;Estats Units
+Luka Modrić;MC;41;AC Milan;Serie A;Croàcia
+Adrien Rabiot;MC;31;AC Milan;Serie A;França
+Fikayo Tomori;DFC;28;AC Milan;Serie A;Anglaterra
+Scott McTominay;MC;29;Napoli;Serie A;Escòcia
+Stanislav Lobotka;MCD;32;Napoli;Serie A;Eslovàquia
+Romelu Lukaku;DC;33;Napoli;Serie A;Bèlgica
+David Neres;ED/EI;29;Napoli;Serie A;Brasil
+Giovanni Di Lorenzo;LD;33;Napoli;Serie A;Itàlia
+Alessandro Buongiorno;DFC;27;Napoli;Serie A;Itàlia
+Federico Dimarco;LI;29;Inter;Serie A;Itàlia
+Yann Bisseck;DFC;25;Inter;Serie A;Alemanya
+Manuel Akanji;DFC;31;Inter;Serie A;Suïssa
+Piotr Zieliński;MC;32;Inter;Serie A;Polònia
+Francesco Pio Esposito;DC;21;Inter;Serie A;Itàlia
+Francisco Conceição;ED;23;Juventus;Serie A;Portugal
+Teun Koopmeiners;MC;28;Juventus;Serie A;Països Baixos
+Andrea Cambiaso;LD/LI;26;Juventus;Serie A;Itàlia
+Jonathan David;DC;26;Juventus;Serie A;Canadà
+Guglielmo Vicario;POR;30;Juventus;Serie A;Itàlia
+Moise Kean;DC;26;Fiorentina;Serie A;Itàlia
+Gianluca Scamacca;DC;27;Atalanta;Serie A;Itàlia
+Charles De Ketelaere;MCO/DC;25;Atalanta;Serie A;Bèlgica
+Ederson;MC;27;Atalanta;Serie A;Brasil
+Giorgio Scalvini;DFC;22;Atalanta;Serie A;Itàlia
+Paulo Dybala;MCO/DC;33;Roma;Serie A;Argentina
+Manu Koné;MC;25;Roma;Serie A;França
+Mile Svilar;POR;27;Roma;Serie A;Sèrbia

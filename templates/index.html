@@ -1,0 +1,139 @@
+
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Guess The Player | Football Challenge</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="fons-decoratiu"></div>
+
+<nav class="navbar">
+    <a class="marca" href="/">
+        <span class="marca-icon">G</span>
+        <span>GUESS<span class="verd">PLAYER</span></span>
+    </a>
+    <span class="nav-etiqueta"><span class="punt"></span> FOOTBALL CHALLENGE</span>
+</nav>
+
+<main class="contenidor">
+    <header class="hero">
+        <div class="sobre-titol"><span></span> THE ULTIMATE FOOTBALL QUIZ <span></span></div>
+        <h1>GUESS THE<br><span>PLAYER.</span></h1>
+        <p>Un jugador secret. Vuit intents. Demostra el que saps de futbol.</p>
+    </header>
+
+    <section class="joc">
+        <div class="joc-capcalera">
+            <div>
+                <span class="petit-titol">MATCH IN PROGRESS</span>
+                <h2>Qui és el jugador?</h2>
+            </div>
+            <div class="comptador">
+                <span>INTENTS</span>
+                <strong>{{ intents }}<small>/8</small></strong>
+            </div>
+        </div>
+
+        <div class="barra-progres">
+            <div style="width: {{ (intents / 8 * 100)|int }}%"></div>
+        </div>
+
+        <form action="{{ url_for('endevinar') }}" method="post" class="formulari">
+            <label for="jugador">ESCRIU UN FUTBOLISTA</label>
+            <div class="cerca">
+                <span class="icona-cerca">⌕</span>
+                <input id="jugador" name="jugador"
+                       placeholder="Ex. Lamine Yamal..."
+                       autocomplete="off" required
+                       {% if estat != 'jugant' %}disabled{% endif %}>
+                <button type="submit" {% if estat != 'jugant' %}disabled{% endif %}>
+                    PROVAR <span>↗</span>
+                </button>
+            </div>
+            <p class="ajuda">Pots escriure el nom o el cognom del futbolista.</p>
+        </form>
+
+        {% if missatge %}
+        <div class="missatge {% if estat == 'guanyat' %}victoria{% elif estat == 'perdut' %}derrota{% endif %}">
+            {{ missatge }}
+        </div>
+        {% endif %}
+
+        {% if estat != 'jugant' %}
+        <a class="boto-nova" href="{{ url_for('nova') }}">↻ &nbsp; JUGAR UNA ALTRA PARTIDA</a>
+        {% endif %}
+    </section>
+
+    <section class="pistes-seccio">
+        <div class="seccio-titol">
+            <div>
+                <span class="petit-titol">ANÀLISI DEL JUGADOR</span>
+                <h2>Les teves pistes <span class="verd">.</span></h2>
+            </div>
+            <span class="etiqueta-pistes">{{ resultats|length }} RESPOSTES</span>
+        </div>
+
+        <div class="llegenda">
+            <span><i class="verd-fons">✓</i> Coincidència</span>
+            <span><i class="vermell-fons">✕</i> No coincideix</span>
+        </div>
+
+        {% if resultats %}
+            <div class="llista-jugadors">
+            {% for r in resultats %}
+                <article class="resultat">
+                    <div class="resultat-numero">{{ "%02d"|format(intents - loop.index0) }}</div>
+                    <div class="resultat-contingut">
+                        <h3>{{ r.nom }}</h3>
+                        <div class="targetes-pistes">
+                            <div class="pista {{ 'correcte' if r.pistes.club else 'incorrecte' }}">
+                                <span class="pista-icona">{{ '✓' if r.pistes.club else '✕' }}</span>
+                                <span>CLUB</span>
+                            </div>
+                            <div class="pista {{ 'correcte' if r.pistes.pais else 'incorrecte' }}">
+                                <span class="pista-icona">{{ '✓' if r.pistes.pais else '✕' }}</span>
+                                <span>PAÍS</span>
+                            </div>
+                            <div class="pista {{ 'correcte' if r.pistes.posicio else 'incorrecte' }}">
+                                <span class="pista-icona">{{ '✓' if r.pistes.posicio else '✕' }}</span>
+                                <span>POSICIÓ</span>
+                            </div>
+                            <div class="pista edat">
+                                <span class="pista-icona">
+                                    {% if r.pistes.edat == 'igual' %}✓
+                                    {% elif r.pistes.edat == 'mes_gran' %}↑
+                                    {% else %}↓{% endif %}
+                                </span>
+                                <span>
+                                    {% if r.pistes.edat == 'igual' %}EDAT
+                                    {% elif r.pistes.edat == 'mes_gran' %}MÉS GRAN
+                                    {% else %}MÉS JOVE{% endif %}
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            {% endfor %}
+            </div>
+        {% else %}
+            <div class="estat-buit">
+                <div class="icona-buit">⚽</div>
+                <h3>El partit tot just comença</h3>
+                <p>Les pistes apareixeran aquí després del teu primer intent.</p>
+            </div>
+        {% endif %}
+    </section>
+
+    <footer>
+        <span>GUESS<span class="verd">PLAYER</span></span>
+        <span>Fet per Pau Serral</span>
+    </footer>
+</main>
+
+</body>
+</html>
+
